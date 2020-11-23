@@ -1,1 +1,2 @@
 # practiceGit_RikuKimura
+GitHub練習
